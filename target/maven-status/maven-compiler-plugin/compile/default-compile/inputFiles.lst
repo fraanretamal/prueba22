@@ -1,0 +1,15 @@
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/dao/ItemRecetaDAO.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/modelo/Medico.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/controlador/PacienteController.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/controlador/RecetaController.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/modelo/Credencial.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/modelo/Paciente.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/modelo/Receta.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/dao/RecetaDAO.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/controlador/CredencialController.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/modelo/ItemReceta.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/controlador/MedicoController.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/ClinicaApplication.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/dao/PacienteDAO.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/dao/CredencialDAO.java
+/Users/franciscaretamal/NetBeansProjects/spring_clinica/src/main/java/com/lp2/prueba2/clinica/dao/MedicoDAO.java
